@@ -3,7 +3,7 @@ public class Training {
 
         String name = "Alex";
         Integer age = 25;
-        String concatenation = name + age;
-        System.out.println(concatenation);
+        String concat = name + age;
+        System.out.println(concat);
     }
 }
